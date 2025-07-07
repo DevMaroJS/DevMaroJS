@@ -13,6 +13,7 @@ Proficient in styling technologies (SCSS, SASS, LESS, Styled Components) and exp
 A passionate lifelong learner who thrives on exploring emerging technologies and staying ahead of industry trends to deliver modern, impactful solutions.
 
 * 🌍  I'm based in Venezuela
+* 🖥️  See my portfolio at [devmarojs.github.io](http://devmarojs.github.io/)
 * ✉️  You can contact me at [yldemaro.1994@gmail.com](mailto:yldemaro.1994@gmail.com)
 
 ### Skills
